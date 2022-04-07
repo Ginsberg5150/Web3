@@ -1,0 +1,397 @@
+[
+    {
+        "seedless.eth": {
+            "address": "0xaFe4fD87793a651E3068C3Fe52a492ACf9a74033",
+            "owner": "0xaFe4fD87793a651E3068C3Fe52a492ACf9a74033",
+            "txt_records": []
+        }
+    },
+    {
+        "pasquin.eth": {
+            "address": "0x912618C196b6d93d6F7820c61B8E391f272bDB13",
+            "owner": "0x912618C196b6d93d6F7820c61B8E391f272bDB13",
+            "txt_records": []
+        }
+    },
+    {
+        "ambrosia.eth": {
+            "address": "0xc95932D5a11eCB8eB776ee4eF062888008e9B84d",
+            "owner": "0xc95932D5a11eCB8eB776ee4eF062888008e9B84d",
+            "txt_records": []
+        }
+    },
+    {
+        "zcode.eth": {
+            "address": "0x884906884AC4898b982c7A12Cbff5C5a743f0dBD",
+            "owner": "0x884906884AC4898b982c7A12Cbff5C5a743f0dBD",
+            "txt_records": []
+        }
+    },
+    {
+        "serenity.eth": {
+            "address": "0x748b98fd351305D18D9dddA7d92739EE55A6dDc1",
+            "owner": "0x748b98fd351305D18D9dddA7d92739EE55A6dDc1",
+            "txt_records": [
+                {
+                    "email": "akcryptoguy@gmail.com"
+                },
+                {
+                    "avatar": "https://ipfs.io/ipfs/QmRZJ9G18VpLFGH8pdcePugVe8RGZG9nQki1kpbDbaD1zW"
+                },
+                {
+                    "description": "The man in black fled across the desert, and the Gunslinger followed."
+                },
+                {
+                    "com.discord": "akcryptoguy#8562"
+                },
+                {
+                    "com.github": "akcryptoguy"
+                },
+                {
+                    "com.reddit": "akcryptoguy"
+                },
+                {
+                    "com.twitter": "akcryptoguy"
+                }
+            ]
+        }
+    },
+    {
+        "nebraskan.eth": {
+            "address": "0xD491999052995CaaceFBCf7c82c66CcD6FBC2eC9",
+            "owner": "0xD491999052995CaaceFBCf7c82c66CcD6FBC2eC9",
+            "txt_records": []
+        }
+    },
+    {
+        "snowbird.eth": {
+            "address": "0xF7804dC312b62D9c653dCE3698A4E5F8E474739a",
+            "owner": "0xF7804dC312b62D9c653dCE3698A4E5F8E474739a",
+            "txt_records": []
+        }
+    },
+    {
+        "ens.bauer.eth": {
+            "address": "0xd81064c954043b0dFDb84Ec3a80cC11a375f19AB",
+            "owner": "0xd81064c954043b0dFDb84Ec3a80cC11a375f19AB",
+            "txt_records": []
+        }
+    },
+    {
+        "boinc.eth": {
+            "address": "0xB96F6b78f41Cd2F432Ac5BB1E64359b44f97BB2D",
+            "owner": "0xB96F6b78f41Cd2F432Ac5BB1E64359b44f97BB2D",
+            "txt_records": []
+        }
+    },
+    {
+        "11911.eth": {
+            "address": "0x675F0FB3cD2e42a99BBC67b6696cEF8fa94c6299",
+            "owner": "0x675F0FB3cD2e42a99BBC67b6696cEF8fa94c6299",
+            "txt_records": []
+        }
+    },
+    {
+        "bimin.eth": {
+            "address": "0x6A0AD721893A036c563cE0FA6086A0111D381a5E",
+            "owner": "0x6A0AD721893A036c563cE0FA6086A0111D381a5E",
+            "txt_records": []
+        }
+    },
+    {
+        "ilankatin.eth": {
+            "address": "0xaB3627317c43D394eb171170f818153B976D28A3",
+            "owner": "0xaB3627317c43D394eb171170f818153B976D28A3",
+            "txt_records": []
+        }
+    },
+    {
+        "0xzzm.eth": {
+            "address": "0x4F3F66920D2321B5C51Ae379CF1a243405DeA1AD",
+            "owner": "0x4F3F66920D2321B5C51Ae379CF1a243405DeA1AD",
+            "txt_records": [
+                {
+                    "com.twitter": "skyz2014"
+                }
+            ]
+        }
+    },
+    {
+        "trashart.eth": {
+            "address": "0x240ad467a71210629D71D4dE22ebde27951c83Fc",
+            "owner": "0x240ad467a71210629D71D4dE22ebde27951c83Fc",
+            "txt_records": [
+                {
+                    "url": "https://trashart.io"
+                }
+            ]
+        }
+    },
+    {
+        "haarmeisterei.eth": {
+            "address": "0x8287ae7B97de14609DB95cEB655DE3CeE54792d5",
+            "owner": "0x8287ae7B97de14609DB95cEB655DE3CeE54792d5",
+            "txt_records": []
+        }
+    },
+    {
+        "smolpp.eth": {
+            "address": "0xfA45C6991a2C3d74ada3A279E21135133CE3Da8A",
+            "owner": "0xfA45C6991a2C3d74ada3A279E21135133CE3Da8A",
+            "txt_records": []
+        }
+    },
+    {
+        "oficinastk.eth": {
+            "address": "0xa4aD045d62a493f0ED883b413866448AfB13087C",
+            "owner": "0xa4aD045d62a493f0ED883b413866448AfB13087C",
+            "txt_records": [
+                {
+                    "url": "https://oficinastk.github.io"
+                },
+                {
+                    "avatar": "eip155:1/erc721:0x41a322b28d0ff354040e2cbc676f0320d8c8850d/1438"
+                }
+            ]
+        }
+    },
+    {
+        "neiman.eth": {
+            "address": "0xc967dEdcF086b7FE1eAB492F2EB2b74F1E5947b8",
+            "owner": "0xc967dEdcF086b7FE1eAB492F2EB2b74F1E5947b8",
+            "txt_records": [
+                {
+                    "email": "neiman@esteroids.xyz"
+                },
+                {
+                    "url": "neiman.eth.limo"
+                },
+                {
+                    "avatar": "https://www.neiman.co.il/neiman.png"
+                },
+                {
+                    "description": "Co-founder Esteroids, co-founder Almonit, Math PhD, dWeb addict. "
+                },
+                {
+                    "com.discord": "neiman#9115"
+                },
+                {
+                    "com.github": "eyalron33"
+                },
+                {
+                    "com.twitter": "@neiman30"
+                },
+                {
+                    "eth.ens.delegate": "https://discuss.ens.domains/t/ens-dao-delegate-applications/815/463"
+                }
+            ]
+        }
+    },
+    {
+        "thomasjf.eth": {
+            "address": "0x563DF37683ff2513CCeAc514164285c89c4E2178",
+            "owner": "0x563DF37683ff2513CCeAc514164285c89c4E2178",
+            "txt_records": []
+        }
+    },
+    {
+        "zsoltsandor.eth": {
+            "address": "0x020FE4ED1bbb71cBa3b760c2974bF9a57bcCf839",
+            "owner": "0x020FE4ED1bbb71cBa3b760c2974bF9a57bcCf839",
+            "txt_records": [
+                {
+                    "email": "hello@zsoltsandor.me"
+                },
+                {
+                    "url": "https://zsoltsandor.me"
+                },
+                {
+                    "avatar": "https://zsoltsandor.me/img/zsoltsandor.png"
+                },
+                {
+                    "com.github": "zsoltsandor"
+                },
+                {
+                    "com.twitter": "zsoltsandor"
+                }
+            ]
+        }
+    },
+    {
+        "sarovin.eth": {
+            "address": "0xE622eE9632110882237951C750C9d6ff8EFde801",
+            "owner": "0xE622eE9632110882237951C750C9d6ff8EFde801",
+            "txt_records": []
+        }
+    },
+    {
+        "yilak.eth": {
+            "address": "0x36D78aa8781a3560032649D02F7981558C2Ed6f1",
+            "owner": "0x36D78aa8781a3560032649D02F7981558C2Ed6f1",
+            "txt_records": []
+        }
+    },
+    {
+        "physics2045.eth": {
+            "address": "0x96379aA5e547F14459C894b634eABae71C8009Ba",
+            "owner": "0x96379aA5e547F14459C894b634eABae71C8009Ba",
+            "txt_records": []
+        }
+    },
+    {
+        "tomfrench.eth": {
+            "address": "0x60959Ed8307EE2b0d04306f6b319AEeE8864f1Ee",
+            "owner": "0x60959Ed8307EE2b0d04306f6b319AEeE8864f1Ee",
+            "txt_records": []
+        }
+    },
+    {
+        "hapsavage.eth": {
+            "address": "0xf09c860cAc4119C959ADB58fA4ad9bDdF665875F",
+            "owner": "0xf09c860cAc4119C959ADB58fA4ad9bDdF665875F",
+            "txt_records": []
+        }
+    },
+    {
+        "joskow.eth": {
+            "address": "0x5c93e7AedE5BE119A6247204Ef62123508755BFc",
+            "owner": "0x5c93e7AedE5BE119A6247204Ef62123508755BFc",
+            "txt_records": []
+        }
+    },
+    {
+        "mowrey.eth": {
+            "address": "0x1EC4296Cf64BE6956dEEB23CdC50c2966251A4C9",
+            "owner": "0x3837919AB2CDB024233eeEfEb3B1161514b061Fd",
+            "txt_records": [
+                {
+                    "url": "mowrey.github.io"
+                }
+            ]
+        }
+    },
+    {
+        "luohan.eth": {
+            "address": "0x89C5dca00B9bf5AD746b91EC911c56Cb4AEE17F0",
+            "owner": "0x89C5dca00B9bf5AD746b91EC911c56Cb4AEE17F0",
+            "txt_records": []
+        }
+    },
+    {
+        "collin.eth": {
+            "address": "0x8124b02b4967Bd7338a450420a572D574915Ff9C",
+            "owner": "0x240ad467a71210629D71D4dE22ebde27951c83Fc",
+            "txt_records": []
+        }
+    },
+    {
+        "nftbox.eth": {
+            "address": "0xcc2742F92e806573D21a60596f6D6D4e51e35Be5",
+            "owner": "0xcc2742F92e806573D21a60596f6D6D4e51e35Be5",
+            "txt_records": [
+                {
+                    "description": "NFTBOX.eth"
+                }
+            ]
+        }
+    },
+    {
+        "agus.rcn.eth": {
+            "address": "0x964ca28579ad7041aF1a99B9b7d306b1Ea203a62",
+            "owner": "0x964ca28579ad7041aF1a99B9b7d306b1Ea203a62",
+            "txt_records": []
+        }
+    },
+    {
+        "peterd.dcl.eth": {
+            "address": "0x8445165437cB63AffB2f143378D0eC63e0249582",
+            "owner": "0x8445165437cB63AffB2f143378D0eC63e0249582",
+            "txt_records": []
+        }
+    },
+    {
+        "cryptoartschool.eth": {
+            "address": null,
+            "owner": "0xDC546f477f273bCF327297bf4ADCB671b5f20BE1",
+            "txt_records": [
+                {
+                    "url": "https://opensea.io/assets/0xfac7bea255a6990f749363002136af6556b31e04/68759750433179819657189096819367921528587706531424941889469492616219463123618"
+                }
+            ]
+        }
+    },
+    {
+        "phillipgibb.eth": {
+            "address": "0x61715B3C0DDCA7ED8B3c525C0bDe87d33826698f",
+            "owner": "0x61715B3C0DDCA7ED8B3c525C0bDe87d33826698f",
+            "txt_records": []
+        }
+    },
+    {
+        "msolomon.eth": {
+            "address": "0x60A5dcB2fC804874883b797f37CbF1b0582ac2dD",
+            "owner": "0x60A5dcB2fC804874883b797f37CbF1b0582ac2dD",
+            "txt_records": [
+                {
+                    "avatar": "eip155:1/erc721:0xBd3531dA5CF5857e7CfAA92426877b022e612cf8/2889"
+                }
+            ]
+        }
+    },
+    {
+        "teslaboy.eth": {
+            "address": "0x0Eb76894aCFB8589B0F6237C4c8077C5280cC927",
+            "owner": "0x0Eb76894aCFB8589B0F6237C4c8077C5280cC927",
+            "txt_records": []
+        }
+    },
+    {
+        "rarart.eth": {
+            "address": "0x25981260Dd48274Abb39d48eD3cd96384522c217",
+            "owner": "0x25981260Dd48274Abb39d48eD3cd96384522c217",
+            "txt_records": []
+        }
+    },
+    {
+        "bpate.eth": {
+            "address": "0x088953d68e9aF6700EB75a5b59c5853cb6A9017D",
+            "owner": "0x088953d68e9aF6700EB75a5b59c5853cb6A9017D",
+            "txt_records": []
+        }
+    },
+    {
+        "warkgnall.eth": {
+            "address": "0x399961d4E60D84DeDFbA2CC6f67fdf0702440527",
+            "owner": "0x399961d4E60D84DeDFbA2CC6f67fdf0702440527",
+            "txt_records": []
+        }
+    },
+    {
+        "tomhoward.eth": {
+            "address": "0xE04243D4dE64793420E613fA13f12eFFF42ACa05",
+            "owner": "0xE04243D4dE64793420E613fA13f12eFFF42ACa05",
+            "txt_records": []
+        }
+    },
+    {
+        "papacito.eth": {
+            "address": "0x72a5Ba942a401C4BD08a32963B75f971292213a8",
+            "owner": "0x72a5Ba942a401C4BD08a32963B75f971292213a8",
+            "txt_records": []
+        }
+    },
+    {
+        "cunningham.eth": {
+            "address": "0xE0d5224BC6560310260B50dbdCEc3E6aE130a6B5",
+            "owner": "0xE0d5224BC6560310260B50dbdCEc3E6aE130a6B5",
+            "txt_records": []
+        }
+    },
+    {
+        "sacha.eth": {
+            "address": "0x8036C45ffAC7980483862d8a8ce07635107E8C7c",
+            "owner": "0x8036C45ffAC7980483862d8a8ce07635107E8C7c",
+            "txt_records": []
+        }
+    }
+]
