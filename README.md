@@ -3,6 +3,11 @@
 
 <h1 align="center">What value does OSINT bring to <br> the Web 3.0 space</h1>
 
+## EIS3 ENS Info Scanner Tool v1 
+Github Repo  https://github.com/salaheldinaz/eis3
+
+Docker  https://hub.docker.com/r/salaheldinaz/eis3
+
 
 ## Resources
 
